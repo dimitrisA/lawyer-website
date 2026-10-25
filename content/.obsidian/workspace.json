@@ -11,14 +11,12 @@
             "id": "80bcef53fb6ed1a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "articles/article1/index.md",
-                "mode": "source",
-                "source": false
+                "file": "articles/article1/featured.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "featured"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/article1/index.md",
+                "file": "articles/article1/featured.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/article1/index.md",
+                "file": "articles/article1/featured.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/article1/index.md",
+                "file": "articles/article1/featured.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,16 +188,24 @@
   },
   "active": "80bcef53fb6ed1a5",
   "lastOpenFiles": [
-    "articles/article1/featured.png",
     "articles/article1/index.md",
     "articles/_index.md",
-    "articles/article1/Untitled.md",
-    "services.md",
-    "articles/article1",
-    "about.md",
-    "services 1.md",
-    "contact.md",
     "_index.md",
+    "about.md",
+    "contact.md",
+    "services.md",
+    "services 1.md",
+    "static/web-app-manifest-192x192.png",
+    "static/site.webmanifest",
+    "static/image.png",
+    "static/favicon.svg",
+    "static/favicon.ico",
+    "static/favicon-96x96.png",
+    "static/apple-touch-icon.png",
+    "static/web-app-manifest-512x512.png",
+    "articles/article1/featured.png",
+    "articles/article1/Untitled.md",
+    "articles/article1",
     "_index/cover1.png",
     "_index",
     "articels",
@@ -209,11 +215,6 @@
     "articles",
     "_index",
     "static/Pasted image 20261025172505.png",
-    "static/Pasted image 20261025172818.png",
-    "static/Pasted image 20261025172812.png",
-    "static/Pasted image 20261025172604.png",
-    "static/Pasted image 20261025172702.png",
-    "static/Pasted image 20261025172618.png",
-    "static"
+    "static/Pasted image 20261025172818.png"
   ]
 }
