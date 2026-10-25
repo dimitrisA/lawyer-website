@@ -1,0 +1,9 @@
+languageCode = "el"
+languageName = "Ελληνικά"
+weight = 1
+title = "Ελένη Αναγνώστου"
+
+[params.author]
+  name = "Δικηγόρος"
+  headline = "Διοικητικό Δίκαιο | Νομικές Υπηρεσίες"
+  bio = "Νομική συμβουλευτική και εκπροσώπηση"

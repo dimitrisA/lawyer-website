@@ -1,0 +1,24 @@
+[[main]]
+  name = "Αρχική"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Υπηρεσίες"
+  pageRef = "services"
+  weight = 20
+
+[[main]]
+  name = "Σχετικά"
+  pageRef = "about"
+  weight = 30
+
+[[main]]
+  name = "Άρθρα"
+  pageRef = "articles"
+  weight = 40
+
+[[main]]
+  name = "Επικοινωνία"
+  pageRef = "contact"
+  weight = 50

@@ -1,0 +1,27 @@
+colorScheme = "slate"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+enableSearch = true
+
+[homepage]
+  layout = "basic"
+  showRecent = false
+  homepageImage = "cover1.png"
+  disableHeroImageFilter = true 
+
+[list]
+  showHero = true
+  showSummary = true
+  showCards = true
+  cardView = true
+  groupByYear = false
+
+
+[article]
+  showDate = true
+  showAuthor = false
+  showReadingTime = true
+  showTableOfContents = true
+  showHero = true
+  heroStyle = "big"

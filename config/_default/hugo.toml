@@ -1,0 +1,9 @@
+baseURL = "https://example.netlify.app/"
+languageCode = "el"
+defaultContentLanguage = "el"
+title = "Ελένη Αναγνώστου"
+theme = "blowfish"
+staticDir = ["content/static"]
+ignoreFiles = ['^static/']
+
+
