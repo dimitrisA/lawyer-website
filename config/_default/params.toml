@@ -1,6 +1,7 @@
 colorScheme = "slate"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
+copyright = "© { year } Ελένη Αναγνώστου | Με επιφύλαξη παντός δικαιώματος"
 
 enableSearch = true
 
